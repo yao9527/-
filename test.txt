@@ -7,3 +7,15 @@ git push -u origin master
 
 分支代码
 页面添加
+
+
+招聘职位名称
+/div[@class='item_con job_title']/div[@class='job_name clearfix']/a
+
+赶集网
+职位名称
+//*[@class='job-wanted']/dl/dt/a
+职位简称
+//*[@class='job-wanted']/dl/dt/em
+
+http://weixin.sogou.com/weixin?query=中国平安&s_from=input&type=2&page=1&ie=utf8
